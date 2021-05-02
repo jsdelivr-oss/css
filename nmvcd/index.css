@@ -1266,8 +1266,8 @@ ul.navigation a:focus {
 /**/
 
 /* 新添浮动窗 */
-.float-windows-hot{width:120px;position:fixed;_position:absolute;top:300px;left:50%;margin-left:510px;z-index:30;}
-.float-windows-hot .we2mabg{width:inherit;height:120px;background:url(../images/weixin.gif);overflow:hidden;}
+.float-windows-hot{width:200px;position:fixed;_position:absolute;top:300px;left:50%;margin-left:510px;z-index:30;}
+.float-windows-hot .we2mabg{width:inherit;height:200px;background:url(../images/weixin.gif);overflow:hidden;}
 .float-windows-hot p{height:20px;line-height:20px;overflow:hidden;font-size:12px;color:#333;text-align:center;}
 .float-windows-hot a{display:block;padding-left:28px;width:92px;height:25px;text-align:center;background:url(../images/solo_butt_01.gif);line-height:25px;}
 .float-windows-hot a:hover{background-position:left -25px;color:#ff0000;text-decoration:none;}
